@@ -1,0 +1,11 @@
+package ex1;
+
+public class galaxy {
+	String os;
+	String numbers;
+	String externalMemory;
+	
+	public void dmb() {
+		System.out.println("tv¸¦ º¾´Ï´Ù.");
+	}
+}

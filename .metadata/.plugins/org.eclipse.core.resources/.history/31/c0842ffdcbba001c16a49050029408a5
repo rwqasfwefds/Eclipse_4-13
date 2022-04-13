@@ -1,0 +1,12 @@
+package mission2;
+
+public class Student {
+//	인스턴스 변수 정의
+	String name;
+	int hakbun;
+	int kor;
+	int eng;
+	int math;
+	
+//	초기화 부분
+}

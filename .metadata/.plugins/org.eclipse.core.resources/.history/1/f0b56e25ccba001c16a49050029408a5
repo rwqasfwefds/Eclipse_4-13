@@ -1,0 +1,18 @@
+package mission2;
+
+public class Student {
+//	인스턴스 변수 정의
+	String name;
+	int hakbun;
+	int kor;
+	int eng;
+	int math;
+	
+//	1. 매개변수로 받아서 초기화하는 부분 : 생성자
+	
+	int sum() {
+		int result = 0;
+//		국어 + 영어 + 수학 점수 합계
+		return result;
+	}
+}

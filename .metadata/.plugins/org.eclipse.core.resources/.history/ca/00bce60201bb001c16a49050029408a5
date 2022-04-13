@@ -1,0 +1,8 @@
+package ex3;
+
+public class tank extends common{
+	
+	public void siz() {
+		System.out.println("시즈모드로 바꿈");
+	}
+}

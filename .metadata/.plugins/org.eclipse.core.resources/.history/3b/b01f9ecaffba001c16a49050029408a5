@@ -1,0 +1,9 @@
+package ex3;
+
+public class tank {
+	int weight;
+	
+	public void siz() {
+		System.out.println("시즈모드로 바꿈");
+	}
+}

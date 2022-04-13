@@ -1,0 +1,27 @@
+//package mission3;
+//
+//public class Person {
+//	String name;
+//	int height, weight;
+//	
+////	맴버 변수 초기화
+//	Person(String x, int y, int z){
+//		name = x;
+//		height = y;
+//		weight = z;
+//	}
+//}
+
+// this쓰는 법
+package gettersetter02;
+
+public class Person {
+	String name;
+	int height, weight;
+
+	Person(String name, int height, int weight){
+		this.name = name;
+		this.height = height;
+		this.weight = weight;
+	}
+}

@@ -1,0 +1,15 @@
+package mission;
+
+public class Exercise01 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		MyType kor1 = new MyType();
+		
+		kor1.a = 100;
+		kor1.b = 200;
+		kor1.c = 300;
+		
+	}
+
+}

@@ -1,0 +1,11 @@
+package mission;
+
+public class MyType {
+	int a, b, c;
+	
+	MyType(int x, int y, int z){
+		a = x;
+		b = y;
+		c = z
+	}
+}

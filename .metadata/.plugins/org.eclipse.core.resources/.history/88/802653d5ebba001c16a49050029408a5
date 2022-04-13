@@ -1,0 +1,13 @@
+package gettersetter06;
+
+public class Employee {
+	int number;
+	String name;
+	int money;
+	
+	Employee(int number, String name, int money){
+		this.number = number;
+		this.name = name;
+		this.money = money;
+	}
+}

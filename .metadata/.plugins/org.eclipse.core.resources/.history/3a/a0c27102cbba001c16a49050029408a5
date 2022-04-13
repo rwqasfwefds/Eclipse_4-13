@@ -1,0 +1,16 @@
+package mission;
+
+public class MyType {
+	int a, b, c;
+	
+//	기본 생성자
+	MyType(){
+		
+	}
+	
+	MyType(int x, int y, int z){
+		a = x;
+		b = y;
+		c = z;
+	}
+}

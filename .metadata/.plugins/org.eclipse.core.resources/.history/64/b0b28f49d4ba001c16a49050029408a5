@@ -1,0 +1,17 @@
+package mission3;
+
+public class Person {
+	String name;
+	int height, weight;
+	
+	Person(String name, int height, int weight){
+		this.name = name;
+		this.height = height;
+		this.weight = weight;
+	}
+	
+//	맴버 변수의 정보를 얻는게 getter
+	String getName() {
+		return name;
+	}
+}

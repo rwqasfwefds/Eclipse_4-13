@@ -1,0 +1,12 @@
+package gettersetter06;
+
+public class EmployeeTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Employee hong = Employee("skcc12345", "홍길동", 2000000);
+		Employee lee = Employee("skcc56789", "이순신", 3000000);
+		
+	}
+
+}

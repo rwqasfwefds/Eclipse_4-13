@@ -1,0 +1,24 @@
+package ex;
+
+class Car{
+	String color;
+	String gearType;
+	int door;
+	
+//	기본 생성자
+	Car(){}
+	
+//	매개변수가 있는 생성자(오버로딩)
+	Car(String c, String g, int d){
+		color = c;
+		gearType = g;
+		door = d;
+	}
+}
+
+public class Ex6_12 {
+	
+	public static void main(String[] args) {
+		
+	}
+}

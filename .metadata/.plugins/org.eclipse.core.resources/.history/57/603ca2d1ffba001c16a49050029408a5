@@ -1,0 +1,14 @@
+package ex3;
+
+public class firebat {
+	int height;
+	int weight;
+	
+	public void walk() {
+		System.out.println("걸어가고 있습니다");
+	}
+	
+	public void fire() {
+		System.out.println("불을 쏘고 있습니다.");
+	}
+}

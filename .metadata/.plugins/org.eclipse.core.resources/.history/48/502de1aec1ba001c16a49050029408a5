@@ -1,0 +1,22 @@
+package ex;
+
+class Data_1{
+	int value;
+//	생성자 없음 : 생성자가 없을 경우 자바가 자동으로 생성해줌
+}
+
+class Data_2{
+	int value;
+	
+//	매개변수가 있는 생성자를 정의했으면 무조건 매개변수가 없는 생성자 하나를 만들어 줘야 함
+//	Data_2(){} 이런식으로
+	
+//	개발자가 정의 : 매개변수 1개짜리 생성자
+	Data_2(int x){
+		value = x;
+	}
+}
+
+public class Ex6_11 {
+
+}

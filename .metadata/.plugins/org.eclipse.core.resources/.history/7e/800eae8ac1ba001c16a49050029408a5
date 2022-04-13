@@ -1,0 +1,10 @@
+package ex;
+
+class Data_1{
+	int value;
+//	생성자 없음 : 생성자가 없을 경우 자바가 자동으로 생성해줌
+}
+
+public class Ex6_11 {
+
+}

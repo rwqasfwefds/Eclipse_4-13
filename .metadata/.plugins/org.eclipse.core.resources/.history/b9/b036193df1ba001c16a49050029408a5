@@ -1,0 +1,16 @@
+package gettersetter07;
+
+public class CarTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		CarFactory sonata = new CarFactory(1, "sonata");
+		
+//		차 일련번호를 증가시키는 메소드를 실행
+//		addNumber()
+		int num = addNumber();
+		
+		CarFactory avante = new CarFactory(num, "avante");
+	}
+
+}

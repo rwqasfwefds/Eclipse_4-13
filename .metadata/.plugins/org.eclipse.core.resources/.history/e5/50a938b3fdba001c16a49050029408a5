@@ -1,0 +1,13 @@
+package ex3;
+
+public class StarcraftTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+//		¸¶¸° : Å°, ¸ö¹«°Ô
+//		±â´É : °È±â : "°É¾î°¡°í ÀÖ½À´Ï´Ù." 
+//			 ÃÑ½î±â : "ÃÑÀ» ½î°í ÀÖ½À´Ï´Ù."
+//			 ½ºÆÀÆÑ : "½ºÆÀÆÑÀ» ½è½À´Ï´Ù."
+	}
+
+}

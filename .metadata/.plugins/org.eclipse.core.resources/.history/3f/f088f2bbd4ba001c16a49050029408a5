@@ -1,0 +1,27 @@
+package mission3;
+
+public class Person {
+	String name;
+	int height, weight;
+	
+	Person(String name, int height, int weight){
+		this.name = name;
+		this.height = height;
+		this.weight = weight;
+	}
+	
+//	맴버 변수의 정보를 얻는게 getter
+//	그냥 get쓰고 뒤에 정보를 얻을 맴버 변수를 적어주면 됨 get다음 첫 글자는 대문자로
+//	맴버 변수의 name에 대한 getter 메소드
+	String getName() {
+		return this.name;
+	}
+	
+	int getHeight() {
+		return this.height;
+	}
+	
+	int getWeight() {
+		return this.weight;
+	}
+}

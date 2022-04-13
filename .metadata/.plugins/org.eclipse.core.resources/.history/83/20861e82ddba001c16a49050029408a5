@@ -1,0 +1,11 @@
+package gettersetter05;
+
+public class BankTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+//		홍길동 씨가 통장을 개설 했싐
+		JBank hong = new JBank("홍길동", 12500);
+	}
+
+}

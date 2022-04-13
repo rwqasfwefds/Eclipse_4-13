@@ -1,0 +1,15 @@
+package ex4;
+
+public class VIP {
+	int id;
+	String name;
+	int grade;
+	
+	public void draw() {
+		System.out.println("여러분은 동성 쇼핑몰 고객입니다.");
+	}
+	
+	public void show() {
+		System.out.println("ID : " + id + ", " + "이름 : " + name + ", " + "등급 : " + grade);
+	}
+}

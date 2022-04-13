@@ -1,0 +1,12 @@
+package mission3;
+
+public class Person {
+	String name;
+	int height, weight;
+	
+	Person(String x, int y, int z){
+		name = x;
+		height = y;
+		weight = z;
+	}
+}
