@@ -20,9 +20,9 @@ public class CustomerTest {
 		Silver silver = new Silver();
 		
 		common.draw();
-		vip.show(1001, "Joo", 1);
-		gold.show(1002, "Lee", 2);
-		silver.show(1003, "Kim", 3);
+		vip.show(1, "Joo", 1);
+		gold.show(2, "Lee", 2);
+		silver.show(3, "Kim", 3);
 	}
 
 }

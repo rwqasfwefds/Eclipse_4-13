@@ -14,15 +14,14 @@ public class CustomerTest {
 		
 //		위의 고객들을 생성하고 기능을 출력하세요
 		
-		common common = new common();
 		VIP vip = new VIP();
 		Gold gold = new Gold();
 		Silver silver = new Silver();
 		
-		common.draw();
-		vip.show(1001, "Joo", 1);
-		gold.show(1002, "Lee", 2);
-		silver.show(1003, "Kim", 3);
+		vip.draw();
+		vip.show(1, "Joo", 1);
+		gold.show(2, "Lee", 2);
+		silver.show(3, "Kim", 3);
 	}
 
 }
